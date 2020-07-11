@@ -5,4 +5,4 @@
 - Gardener 
 - Chicken Keeper
 
-![ghinks](./images/reduced/glenn-head-shot.jpg)
+![ghinks](https://github.com/ghinks/ghinks/blob/master/images/reduced/glenn-head-shot.jpg)
